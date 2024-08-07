@@ -44,17 +44,17 @@
 250 449 товарів. На другому та третьому – 222 950 товарів.
 Знайдіть кількість товарів, що розміщені на кожному складі.
 """
-# total_sum = 375291
-# first_second_storage = 250449
-# second_third_storage = 222950
-#
-# third_storage = total_sum - first_second_storage
-# second_storage = first_second_storage - third_storage
-# first_second = total_sum - (second_storage + third_storage)
-#
-# print(f"Кількість товару на третьому складі {third_storage}")
-# print(f"Кількість товару на другому складі {second_storage}")
-# print(f"Кількість товару на першому складі {first_second}")
+total_sum = 375291
+first_second_storage = 250449
+second_third_storage = 222950
+
+third_storage = total_sum - first_second_storage
+second_storage = first_second_storage - third_storage
+first_second = total_sum - (second_storage + third_storage)
+
+print(f"Кількість товару на третьому складі {third_storage}")
+print(f"Кількість товару на другому складі {second_storage}")
+print(f"Кількість товару на першому складі {first_second}")
 
 # task 06
 """
