@@ -25,8 +25,8 @@ rolling in wealth."""
 треба замінити кінець абзацу на пробіл .replace("\n", " ")"""
 
 
-# a = adwentures_of_tom_sawer.replace("\n", " ")
-# print(a)
+a = adwentures_of_tom_sawer.replace("\n", " ")
+print(a)
 
 # # task 02 ==
 # """ Замініть .... на пробіл
