@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+../.venv/bin
+lession_09/__pycache__/
+**/__pycache__/
+*.pyc
