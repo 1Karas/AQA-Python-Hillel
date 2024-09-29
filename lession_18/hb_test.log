@@ -1,0 +1,21 @@
+[INFO|hearbeat_monitoring_logger|L32] 2024-09-23T20:55:05+0300: New Log
+
+[WARNING|hearbeat_monitoring_logger|L59] 2024-09-23T21:29:47+0300: This is warning log
+[WARNING|hearbeat_monitoring_logger|L59] 2024-09-23T21:29:49+0300: This is warning log
+[WARNING|hearbeat_monitoring_logger|L59] 2024-09-23T21:29:51+0300: This is warning log
+[WARNING|hearbeat_monitoring_logger|L60] 2024-09-23T21:30:09+0300: This is warning log
+[ERROR|hearbeat_monitoring_logger|L63] 2024-09-23T21:30:46+0300: This is error log
+[WARNING|hearbeat_monitoring_logger|L60] 2024-09-23T21:30:46+0300: This is warning log
+[ERROR|hearbeat_monitoring_logger|L63] 2024-09-23T21:30:46+0300: This is error log
+[ERROR|hearbeat_monitoring_logger|L63] 2024-09-23T21:30:46+0300: This is error log
+[ERROR|hearbeat_monitoring_logger|L63] 2024-09-23T21:30:46+0300: This is error log
+[ERROR|hearbeat_monitoring_logger|L62] 2024-09-29T13:55:57+0300: This is error log
+[WARNING|hearbeat_monitoring_logger|L59] 2024-09-29T13:55:57+0300: This is warning log
+[ERROR|hearbeat_monitoring_logger|L62] 2024-09-29T13:55:57+0300: This is error log
+[ERROR|hearbeat_monitoring_logger|L62] 2024-09-29T13:55:57+0300: This is error log
+[ERROR|hearbeat_monitoring_logger|L62] 2024-09-29T13:55:58+0300: This is error log
+[ERROR|hearbeat_monitoring_logger|L132] 2024-09-29T14:30:03+0300: This is an error log at 1900-01-01 01:14:58
+[WARNING|hearbeat_monitoring_logger|L129] 2024-09-29T14:30:03+0300: This is a warning log at 1900-01-01 01:35:10
+[ERROR|hearbeat_monitoring_logger|L132] 2024-09-29T14:30:03+0300: This is an error log at 1900-01-01 02:27:06
+[ERROR|hearbeat_monitoring_logger|L132] 2024-09-29T14:30:03+0300: This is an error log at 1900-01-01 03:39:11
+[ERROR|hearbeat_monitoring_logger|L132] 2024-09-29T14:30:03+0300: This is an error log at 1900-01-01 04:51:17
