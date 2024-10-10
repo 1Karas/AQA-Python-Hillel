@@ -23,3 +23,4 @@ xpath_locator_22: str = ".//p[text()='Log fuel expenses']"
 xpath_locator_23: str = ".//button[text()='Guest log in']"
 xpath_locator_24: str = ".//div[@id='movie_player']"
 xpath_locator_25: str = ".//a[@class='footer_logo']"
+
