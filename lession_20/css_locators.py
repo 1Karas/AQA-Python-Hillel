@@ -13,3 +13,5 @@ css_locator_12: str = "span[class$='telegram']"
 css_locator_13: str = "span[class$='youtube']"
 css_locator_14: str = "span[class$='instagram']"
 css_locator_15: str = "span[class$='linkedin']"
+
+
